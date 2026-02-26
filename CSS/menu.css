@@ -95,7 +95,7 @@ header {
 /* Al tener esta clase, se muestra el menú en una caja desplegada */
 .menuDesplegado {
     background-color: #0d6efd;
-    color: white;
+    color: rgb(244, 221, 221);
 
     display: flex;
     flex-direction: column;
